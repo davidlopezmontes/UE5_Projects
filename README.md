@@ -10,3 +10,9 @@ Herramienta desarrollada en **Unreal Engine 5** mediante Blueprints y componente
 * **Modos de Generación:** Permite alternar entre diferentes algoritmos de distribución (distancia fija, espaciado aleatorio y división equitativa).
 * **Parámetros Editables:** Modificación en tiempo real de la distancia entre postes, cantidad de elementos, márgenes y variación de posición.
 * **Sustitución de Assets:** Diseñado con mallas genéricas (*placeholders*) fácilmente intercambiables por los modelos 3D definitivos propios del proyecto en cuestión.
+
+## Demostración en Vídeo
+
+Puedes ver la herramienta en funcionamiento y el desglose de Blueprints en el siguiente vídeo demostrativo:
+
+**(https://www.youtube.com/watch?v=T5St1z_JY5Y))**

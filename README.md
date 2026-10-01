@@ -3,7 +3,7 @@ Repositorio con proyectos de Unreal Engine 5.
 
 # Modelado Procedural - Proyecto NEOCastro
 
-Herramienta desarrollada en **Unreal Engine 5** mediante Blueprints y componentes de Spline para la automatización de elementos de atrezo (tendederos con ropa, pieles o comida). 
+Herramienta desarrollada en **Unreal Engine 5** mediante Blueprints y componentes de Spline para la automatización de elementos de atrezo (tendederos con ropa, pieles, comida, etc.). 
 
 ## Características Principales
 * **Automatización de Recorridos:** Creación de cuerdas dinámicas mediante puntos de control (splines) para adaptar la geometría a cualquier espacio de la escena.

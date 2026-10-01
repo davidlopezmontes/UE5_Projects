@@ -6,13 +6,13 @@ Repositorio con proyectos de Unreal Engine 5.
 Herramienta desarrollada en **Unreal Engine 5** mediante Blueprints y componentes de Spline para la automatización de elementos de atrezo (tendederos con ropa, pieles o comida). 
 
 ## Características Principales
-* **Automatización de Recorridos:** Creación de cuerdas dinámicas mediante puntos de control (*Splines*) para adaptar la geometría a cualquier espacio del entorno virtual.
+* **Automatización de Recorridos:** Creación de cuerdas dinámicas mediante puntos de control (splines) para adaptar la geometría a cualquier espacio de la escena.
 * **Modos de Generación:** Permite alternar entre diferentes algoritmos de distribución (distancia fija, espaciado aleatorio y división equitativa).
-* **Parámetros Editables:** Modificación en tiempo real de la distancia entre postes, cantidad de elementos, márgenes y variación de posición.
-* **Sustitución de Assets:** Diseñado con mallas genéricas (*placeholders*) fácilmente intercambiables por los modelos 3D definitivos propios del proyecto en cuestión.
+* **Parámetros Editables:** Modificación de la distancia entre postes, cantidad de elementos, distancia entre elementos, márgenes, etc.
+* **Sustitución de Assets:** Diseñado con mallas genéricas (placeholders) fácilmente intercambiables por los modelos 3D definitivos propios del proyecto en cuestión.
 
 ## Demostración en Vídeo
 
-Puedes ver la herramienta en funcionamiento y el desglose de Blueprints en el siguiente vídeo demostrativo:
+Puedes ver la herramienta en funcionamiento y el desglose de Blueprints en el siguiente vídeo:
 
 **(https://www.youtube.com/watch?v=T5St1z_JY5Y)**

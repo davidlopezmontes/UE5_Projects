@@ -15,4 +15,4 @@ Herramienta desarrollada en **Unreal Engine 5** mediante Blueprints y componente
 
 Puedes ver la herramienta en funcionamiento y el desglose de Blueprints en el siguiente vídeo demostrativo:
 
-**(https://www.youtube.com/watch?v=T5St1z_JY5Y))**
+**(https://www.youtube.com/watch?v=T5St1z_JY5Y)**

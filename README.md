@@ -16,3 +16,10 @@ Herramienta desarrollada en **Unreal Engine 5** mediante Blueprints y componente
 Puedes ver la herramienta en funcionamiento y el desglose de Blueprints en el siguiente vídeo:
 
 **(https://www.youtube.com/watch?v=T5St1z_JY5Y)**
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=T5St1z_JY5Y">
+    <img src="https://img.youtube.com/vi/T5St1z_JY5Y/maxresdefault.jpg" alt="
+[UE5] Procedural Drying Rack System - Overview" width="650">
+  </a>
+</p>

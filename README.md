@@ -7,7 +7,7 @@ Herramienta desarrollada en **Unreal Engine 5** mediante Blueprints y componente
 
 ## Características Principales
 * **Automatización de Recorridos:** Creación de cuerdas dinámicas mediante puntos de control (splines) para adaptar la geometría a cualquier espacio de la escena.
-* **Modos de Generación:** Permite alternar entre diferentes algoritmos de distribución (distancia fija, espaciado aleatorio y división equitativa).
+* **Modos de Generación:** Permite alternar entre diferentes modos de distribución (distancia fija, espaciado aleatorio y división equitativa).
 * **Parámetros Editables:** Modificación de la distancia entre postes, cantidad de elementos, distancia entre elementos, márgenes, etc.
 * **Sustitución de Assets:** Diseñado con mallas genéricas (placeholders) fácilmente intercambiables por los modelos 3D definitivos propios del proyecto en cuestión.
 
